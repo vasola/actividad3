@@ -1,0 +1,13 @@
+*{
+ margin: 0;
+padding: 0;
+}
+
+.foto-base{
+    position: absolute;
+}
+
+.oferta{
+    margin:33px 24px ;
+    position: relative;
+    width: 15%;}
